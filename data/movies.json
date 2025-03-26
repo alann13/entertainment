@@ -1,0 +1,60 @@
+{
+  "movies": [
+    {
+      "id": 1,
+      "title": "1998",
+      "year": 2021,
+      "image": "/assets/thumbnails/1998/regular/large.jpg",
+      "category": "Movie",
+      "rating": "PG"
+    },
+    {
+      "id": 2,
+      "title": "112",
+      "year": 2013,
+      "image": "/assets/thumbnails/112/regular/large.jpg",
+      "category": "Movie",
+      "rating": "18+"
+    },
+    {
+      "id": 3,
+      "title": "Asia in 24 days",
+      "year": 2020,
+      "image": "/assets/thumbnails/asia-in-24-days/regular/large.jpg",
+      "category": "Movie",
+      "rating": "PG"
+    },
+    {
+      "id": 4,
+      "title": "Autosport the series",
+      "year": 2016,
+      "image": "/assets/thumbnails/autosport-the-series/regular/large.jpg",
+      "category": "Movie",
+      "rating": "E"
+    },
+    {
+      "id": 5,
+      "title": "Below Echo",
+      "year": 2016,
+      "image": "/assets/thumbnails/below-echo/regular/large.jpg",
+      "category": "TV Series",
+      "rating": "PG"
+    },
+    {
+      "id": 6,
+      "title": "Beyond earth",
+      "year": 2019,
+      "image": "/assets/thumbnails/beyond-earth/regular/large.jpg",
+      "category": "TV Series",
+      "rating": "E"
+    },
+    {
+      "id": 7,
+      "title": "Bottom gear",
+      "year": 2021,
+      "image": "/assets/thumbnails/bottom-gear/regular/large.jpg",
+      "category": "TV Series",
+      "rating": "PG"
+    }
+  ]
+}
