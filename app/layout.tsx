@@ -21,7 +21,7 @@ export default function RootLayout({
   return (
     <html lang="en">
       <body
-        className={`${outfitSans.className} antialiased p-[2rem] grid grid-cols-[6rem_1fr] gap-x-[2.25rem]`}
+        className={`${outfitSans.className} antialiased grid p-[1.5rem] lg:p-[2rem] lg:grid-cols-[6rem_1fr] gap-[2.25rem]`}
       >
         <header>
           <Navigation />

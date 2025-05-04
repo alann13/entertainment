@@ -8,7 +8,7 @@ interface Props {
 
 export default function ProductCard({ title, imageSrc }: Props) {
   return (
-    <div>
+    <>
       <div className="relative aspect-[280/174] mb-[10px]">
         <Image className="rounded-[8px]" src={imageSrc} alt={title} fill />
         <button className="absolute top-4 right-4 cursor-pointer">
@@ -21,6 +21,6 @@ export default function ProductCard({ title, imageSrc }: Props) {
         </button>
       </div>
       <p className="text-[1.1rem]">{title}</p>
-    </div>
+    </>
   )
 }
