@@ -9,7 +9,7 @@ const outfitSans = Outfit({
 })
 
 export const metadata: Metadata = {
-  title: 'Chillflixed',
+  title: 'Entertainment App',
   description: 'A description for some entertainment app',
 }
 
